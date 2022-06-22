@@ -10,7 +10,7 @@
 
 <h4> Connect with me: </h4>
 
-<a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="[https://www.flaticon.com/free-icons/linkedin]" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://www.flaticon.com/free-icons/linkedin" width="21px"/></a>
 
 <h4> Languages nd tools:  </h4>
 
