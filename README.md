@@ -1,7 +1,7 @@
 # <h1 align="center"> Hi👋, I'm Rhythm Pandey </h1>
 <h4 align="center"> IT Undergrad || Coder || Developer || Designer </h4>
 
-<br />
+
 - 🎓 A IT 3rd year
 - 🌱 I’m currently learning Flutter development💙
 - 👩‍💻 A Competitive Programmer
