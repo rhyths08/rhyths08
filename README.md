@@ -17,8 +17,7 @@
 <a href="https://leetcode.com/rhyths08/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="33px"/></a>
 
 
-
-<h3> Languages nd tools:  </h3>
+## Languages nd tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyths08&layout=compact)](https://github.com/rhyths08)
 
