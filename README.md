@@ -12,6 +12,8 @@
  https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/
 [![name](https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg)](https://twitter.com/rhyths08)
 
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Pixel perfect - Flaticon</a>
+
 <h4> Languages nd tools:  </h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyths08&layout=compact)](https://github.com/rhyths08)
