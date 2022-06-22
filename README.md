@@ -1,4 +1,4 @@
-# Hi👋, I'm Rhythm Pandey
+# <h1 align="center"> Hi👋, I'm Rhythm Pandey </h1>
 <p align="center"> IT Undergrad || Coder || Developer || Designer </p>
 
 <!--
