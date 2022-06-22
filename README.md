@@ -13,7 +13,7 @@
 [![name](https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg)](https://twitter.com/rhyths08)
 
 <h4> Languages nd tools:  </h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/rhyths08)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyths08&layout=compact)](https://github.com/rhyths08)
 
 ![Visitor Count](https://profile-counter.glitch.me/rhyths08/count.svg)
 
