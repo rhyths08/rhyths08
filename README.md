@@ -1,7 +1,7 @@
 # <h1 align="center"> Hi👋, I'm Rhythm Pandey </h1>
 <h4 align="center"> IT Undergrad || Coder || Developer || Designer </h4>
 
-
+<br />
 - 🎓 A IT 3rd year
 - 🌱 I’m currently learning Flutter development💙
 - 👩‍💻 A Competitive Programmer
@@ -15,7 +15,6 @@
 <a href="https://www.instagram.com/its.rhythm.__/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="33px"/></a>
 <a href="https://www.hackerrank.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50px"/></a>
 <a href="https://leetcode.com/rhyths08/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="33px"/></a>
-<br />
 <br />
 
 <h3> Languages nd tools: </h3>
