@@ -5,7 +5,7 @@
 - 🎓 A IT 3rd year
 - 🌱 I’m currently learning Flutter development💙
 - 👩‍💻 A Competitive Programmer
-- 📫 You can reach me at [rhythmritvik@gmail.com]
+- 📫 You can reach me at rhythmritvik@gmail.com
 - 😄 Pronouns: She/Her
 
 ![Visitor Count](https://profile-counter.glitch.me/rhyths08/count.svg)
