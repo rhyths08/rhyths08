@@ -13,7 +13,7 @@
 <a href="https://twitter.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="35px"/></a>
 <a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="30px"/></a>
 <a href="https://www.instagram.com/its.rhythm.__/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="33px"/></a>
-<a href="https://www.hackerrank.com/rhyths08"><img align="left" src="https://en.wikipedia.org/wiki/HackerRank#/media/File:HackerRank_Icon-1000px.png" width="33px"/></a>
+<a href="https://www.hackerrank.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="33px"/></a>
 <a href="https://leetcode.com/rhyths08/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="33px"/></a>
 
 
