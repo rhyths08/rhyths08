@@ -1,5 +1,5 @@
-#     Hi👋, I'm Rhythm Pandey
-      IT Undergrad || Coder || Developer || Designer
+# Hi👋, I'm Rhythm Pandey
+<p align="center"> IT Undergrad || Coder || Developer || Designer </p>
 
 <!--
 **rhyths08/rhyths08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
