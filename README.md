@@ -1,6 +1,6 @@
 # <h1 align="center"> Hi👋, I'm Rhythm Pandey </h1>
 <h4 align="center"> IT Undergrad || Coder || Developer || Designer </h4>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rhyths08/count.svg)
 
 <!--
 **rhyths08/rhyths08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
