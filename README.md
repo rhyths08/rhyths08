@@ -11,6 +11,10 @@
 <h4> Connect with me: </h4>
 
 <a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="21px"/></a>
+<a href="https://twitter.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="21px"/></a>
 
 
 
