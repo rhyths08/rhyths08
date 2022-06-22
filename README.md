@@ -8,7 +8,7 @@
 - 📫 You can reach me at rhythmritvik@gmail.com
 - 😄 Pronouns: She/Her
 
-<h3> Connect with me: </h3>
+## Connect with me: 
 
 <a href="https://twitter.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="35px"/></a>
 <a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="30px"/></a>
