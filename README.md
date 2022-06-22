@@ -8,6 +8,8 @@
 - 📫 You can reach me at rhythmritvik@gmail.com
 - 😄 Pronouns: She/Her
 
+<h4> Connect with me: </h4>
+
 ![Visitor Count](https://profile-counter.glitch.me/rhyths08/count.svg)
 
 <!--
