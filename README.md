@@ -9,8 +9,6 @@
 - 😄 Pronouns: She/Her
 
 <h4> Connect with me: </h4>
- https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/
-[![name](https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg)](https://twitter.com/rhyths08)
 
 <a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="[https://www.flaticon.com/free-icons/linkedin]" alt="icon | LinkedIn" width="21px"/></a>
 
