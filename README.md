@@ -8,7 +8,7 @@
 - 📫 You can reach me at rhythmritvik@gmail.com
 - 😄 Pronouns: She/Her
 
-## Connect with me: 
+<h3> Connect with me: </h3>
 
 <a href="https://twitter.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="35px"/></a>
 <a href="https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align="left" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="30px"/></a>
@@ -16,8 +16,9 @@
 <a href="https://www.hackerrank.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50px"/></a>
 <a href="https://leetcode.com/rhyths08/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="33px"/></a>
 <br />
+<br />
 
-## Languages nd tools:
+<h3> Languages nd tools: </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyths08&layout=compact)](https://github.com/rhyths08)
 
