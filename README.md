@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/its.rhythm.__/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="33px"/></a>
 <a href="https://www.hackerrank.com/rhyths08"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50px"/></a>
 <a href="https://leetcode.com/rhyths08/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="33px"/></a>
-
+<br />
 
 ## Languages nd tools:
 
