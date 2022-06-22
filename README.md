@@ -12,7 +12,7 @@
  https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/
 [![name](https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg)](https://twitter.com/rhyths08)
 
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Pixel perfect - Flaticon</a>
+<a href=”https://www.linkedin.com/in/rhythm-pandey-a8bb841b4/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 <h4> Languages nd tools:  </h4>
 
