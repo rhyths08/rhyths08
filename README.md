@@ -1,5 +1,5 @@
 # <h1 align="center"> Hi👋, I'm Rhythm Pandey </h1>
-<h2 align="center"> IT Undergrad || Coder || Developer || Designer </h2>
+<h4 align="center"> IT Undergrad || Coder || Developer || Designer </h4>
 
 <!--
 **rhyths08/rhyths08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
